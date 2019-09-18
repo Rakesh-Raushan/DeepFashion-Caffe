@@ -1,3 +1,3 @@
 # DeepFashion-Caffe
 
-Cafe weights and model for FashionNet
+Caffe weights and model for FashionNet
